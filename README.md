@@ -1,1 +1,1 @@
-# terraform-labs
+# https://aka.ms/citadel/terraform workshop
